@@ -13,3 +13,4 @@ console.log(soma())
 console.log(soma(1))
 console.log(soma(2,3))
 console.log(soma('1',4))
+

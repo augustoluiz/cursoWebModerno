@@ -35,6 +35,6 @@ function soma(a, b){
 //b - 3
 //c - 1
 soma(2,3)(1)
-
+ 
 const cincoMaisum = soma(2,3)
 cincoMaisum(1)
