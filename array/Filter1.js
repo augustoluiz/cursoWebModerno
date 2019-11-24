@@ -1,7 +1,6 @@
 Array.prototype.filter1 = function(callback){
-    novoArray = []
-    arrayRejeitados = []
-    for(let i = 0; i < this.length; i ++){
+    const novoArray = []
+    for(let i = 0; i < this.length; i++){
         let rt_callback = callback(this[i])
         if(rt_callback){
             novoArray.push(rt_callback)
