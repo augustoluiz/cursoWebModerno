@@ -1,0 +1,46 @@
+{
+    "transacao": {
+        "nome": "VB0I002",
+        "descricao": "Lista Empresas"
+    },
+    "transacao1": {
+        "nome": "VB0I002",
+        "descricao": "Lista Empresas"
+    },
+    "transacao2": {
+        "nome": "VB0I002",
+        "descricao": "Lista Empresas"
+    },
+    "transacao3": {
+        "nome": "VB0I003",
+        "descricao": "Manutenção de  Empresas"
+    },
+    "transacao4": {
+        "nome": "VB0I004",
+        "descricao": "Lista Segmentos"
+    },
+    "transacao5": {
+        "nome": "VB0I005",
+        "descricao": "Manutenção de Segmentos"
+    },
+    "transacao6": {
+        "nome": "VB0I006",
+        "descricao": "Lista Despesas"
+    },
+    "transacao7": {
+        "nome": "VB0I007",
+        "descricao": "Manutenção de Despesas"
+    },
+    "transacao8": {
+        "nome": "VB0I008",
+        "descricao": "Lista Contratos"
+    },
+    "transacao9": {
+        "nome": "VB0I009",
+        "descricao": "Manutenção de Contratos"
+    },
+    "transacao10": {
+        "nome": "VB0I010",
+        "descricao": "Lista Clientes"
+    }
+}
