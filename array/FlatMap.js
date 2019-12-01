@@ -28,4 +28,3 @@ const getNotasTurma = turma => turma.alunos.map(getNotaAluno)
 const notas1 = escola.flatMap(getNotasTurma)
 
 console.log(notas1)
-

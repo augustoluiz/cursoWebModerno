@@ -1,8 +1,0 @@
-{
- "0": {
-	"nome": "agencia",
-        "tipo": "inteiro",
-        "tamanho": 4,
-	"descricao": "agencia do cliente"
-	}
-}
