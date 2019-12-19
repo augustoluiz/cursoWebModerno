@@ -29,5 +29,5 @@ module.exports = {
     salvarProduto,
     getProduto,
     getProdutos,
-    excluirProduto
+    excluirProduto 
 }
